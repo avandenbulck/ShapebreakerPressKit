@@ -30,8 +30,8 @@
   <!-- ## General Information -->
 
   <!-- Begin with your product name, website, and miscellaneous information. -->
-  <title>Command Line Pilot</title>
-  <website>https://tinyurl.com/CommandLinePilot</website>
+  <title>Shapebreaker - Tower Defense Deckbuilder</title>
+  <website>https://tinyurl.com/shapebreaker</website>
 
   <!-- You can also add an URL to a request page for this product. A button will be displayed on the page. -->
   <!-- <press-copy-request>
@@ -58,7 +58,7 @@
 
   <!-- Add as many dates, platforms and prices as needed. -->
   <release-dates>
-    <release-date>Early Acces: 22 July, 2021</release-date>
+    <release-date>Early Acces: July 19, 2021</release-date>
     <release-date>Full Release: 2022</release-date>
   </release-dates>
 
@@ -70,7 +70,7 @@
   <platforms>
     <platform>
       <name>Steam</name>
-      <link>https://store.steampowered.com/app/1481630/Command_Line_Pilot/</link>
+      <link>https://store.steampowered.com/app/1924010/Shapebreaker__Tower_Defense_Deckbuilder/</link>
     </platform>
   </platforms>
 
@@ -78,19 +78,19 @@
   <prices>
     <price>
       <currency>Early Access: EUR</currency>
-      <value>1.59</value>
+      <value>2.39</value>
     </price>
     <price>
       <currency>Early Access: USD</currency>
-      <value>1.99</value>
+      <value>2.99</value>
     </price>
     <price>
       <currency>Full Release: EUR</currency>
-      <value>3.99</value>
+      <value>7.19</value>
     </price>
     <price>
       <currency>Full Release: USD</currency>
-      <value>4.99</value>
+      <value>8.99</value>
     </price>
   </prices>
 
@@ -133,7 +133,7 @@
 
   <!-- Describe your product here. Be brief. -->
   <description>
-    Program your Mech with cards in this turn-based roguelike. You will be dispatched on diverse missions across various planets. Each mission will require you to program your Mech accordingly in order to succeed.
+ A fusion of tower defense games and roguelike deckbuilders. Use your cards to build towers and to upgrade them in unique ways. Gain rewards to customize your deck, defense and playstyle. Break the shapes before they break you!
   </description>
 
   <!--
@@ -149,10 +149,9 @@
     You can see an example of the `<histories>` block in the company page.
   -->
   <history>
-	The game idea is inspired by the board game Mech vs. Minions by Riot Games. The board game creates a wonderful co-op experience best described as 'chaotic fun'. Lacking a true single player experience, Alexander imagined what the gameplay would be like if packaged as a digital single player roguelike. This led to the first prototype created by him in 2019.		
-	Although the game design and programming was coming along nicely, the art definitely was not. In an effort to improve the visual appeal of the game, Alexander reached out to artists interested in joining the project. Harry quickly responded and joined the project in 2020. He reworked all art assets and significantly improved the visual appeal of the game.
+	Alexander is a big fan of both the Tower Defense genre and Roguelike Deckbuilders. The idea of combining these two genres led to the development of Shapebreaker which started in November 2021. Early prototypes of the game proved to be very promising. This led to the game quickly moving to Itch.io, resulting in a first wave of fans and testers. 
 	
-	Constant feedback from players has been a core design pillar throughout the development of the game. This made Early Access a clear choice as development of the game moved forward.
+	Alexander strongly believes that feedback from players is essential for making any game the best it can be. An active Discord server and in-game feedback feature have proven invaluable during further development of the game. In an effort to gather even more feedback, Early Access was a clear choice for moving the development of the game moved forward.
   </history>
 
   <!-- ## Features -->
@@ -164,16 +163,19 @@
   -->
   <features>
     <feature>
-      Card-Based Programming: Expand your Mechs program each turn by slotting cards into its command line.
+      Card-based defense: Play cards to build and improve towers.
     </feature>
     <feature>
-      Upgrades: Enhance your Mech with various upgrades which will alter your decisions in battle.
+      Deckbuilding: Gain rewards to customize your deck, defense and playstyle.
     </feature>
     <feature>
-      Diverse missions: Experience new challenges each playthrough through different objectives, enemies and layouts.
+      Build unique towers: Create unique towers by combining them with different modules and elements.
     </feature>
     <feature>
-      Unlock new Mechs: Unlock new Mechs with new cards. Master new playstyles.
+      Mazing: Enemies will try to head straight to your core, but don't let them. Choose the position of your towers wisely to create the perfect maze.
+    </feature>
+	 <feature>
+     Unique playthroughs: Every playthrough contains distinct rewards, areas and enemies.
     </feature>
   </features>
 
@@ -194,16 +196,8 @@
   -->
   <trailers>
     <trailer>
-      <name>Command Line Pilot - Early Access Launch Trailer</name>
-      <youtube>f1MnOK3PGUg</youtube>
-    </trailer>
-	<trailer>
-      <name>Command Line Pilot - Early Access Playthrough</name>
-      <youtube>WOGLOqtL0yQ</youtube>	  	  
-    </trailer>
-		<trailer>
-      <name>Command Line Pilot - Developer Playthrough</name>
-      <youtube>dwN8N2TLv38</youtube>	  	  
+      <name>Shapebreaker - Early Access Launch Trailer</name>
+      <youtube>OTeYDBkZC6A</youtube>	  	  
     </trailer>
   </trailers>
 
@@ -341,11 +335,7 @@
   <credits>
     <credit>
       <person>Alexander Van den Bulck</person>
-      <role>Game Designer, Programmer</role>
-    </credit>
-    <credit>
-      <person>Harry Lane</person>
-      <role>Artist</role>
+      <role>Game Design, Programming, Art, Marketing</role>
     </credit>
   </credits>
 
@@ -362,21 +352,15 @@
       <mail>a.vandenbulck@gmail.com</mail>
     </contact>
     <contact>
-      <name>Twitter</name>
-      <link>
-        https://twitter.com/CommandLinePilo
-      </link>
-    </contact>
-    <contact>
       <name>Discord</name>
       <link>
-        https://discord.gg/tADRafzq6z
+        https://discord.gg/EKxcb63DvP
       </link>
     </contact>
     <contact>
       <name>Web</name>
       <link>
-        https://store.steampowered.com/app/1481630/Command_Line_Pilot/
+        https://store.steampowered.com/app/1924010/Shapebreaker__Tower_Defense_Deckbuilder/
       </link>
     </contact>
   </contacts>
