@@ -73,7 +73,7 @@
 
   <!-- The description is a simple short block to describe your company or studio. Be brief. -->
   <description>
-    Alexander Van den Bulck is a solo developer located in Belgium. He is currently working on a Tower Defense Deckbuilder called Shapebreaker.
+    Alexander Van den Bulck is an indie solo developer located in Belgium. His current project is a Tower Defense Deckbuilder called Shapebreaker.
   </description>
 
   <!--
@@ -96,7 +96,7 @@
   -->
   <histories>
     <history>
-      <text>Alexander is a big fan of both the Tower Defense genre and Roguelike Deckbuilders. The idea of combining these two genres led to the development of Shapebreaker which started in November 2021. Early prototypes of the game proved to be very promising. This led to the game quickly moving to Itch.io, resulting in a first wave of fans and testers. Alexander strongly believes that feedback from players is essential for making any game the best it can be. An active Discord server and in-game feedback feature have proven invaluable during further development of the game. In an effort to gather even more feedback, Early Access was a clear choice for moving the development of the game forward.</text>
+      <text>Alexander is a big fan of both the Tower Defense genre and Roguelike Deckbuilders. The idea of combining these two genres led to the development of Shapebreaker which started in November 2021. Early prototypes of the game were very well received. This led to the game quickly moving to Itch.io, resulting in a first wave of fans and players. Alexander strongly believes that early feedback from players is essential to making a game the best it can be. An active Discord server and in-game feedback feature have proven invaluable during further development of the game. In an effort to gather even more feedback, Early Access was a clear choice for moving the development of the game forward.</text>
     </history>
 <!--    <history>
       <header>Free and Open Source</header>
@@ -121,8 +121,8 @@
   -->
   <trailers>
     <trailer>
-      <name>Shapebreaker - Early Access Launch Trailer</name>
-      <youtube>OTeYDBkZC6A</youtube>	  	  
+      <name>Shapebreaker - Official Launch Trailer</name>
+      <youtube>oiP4jqWhWP0</youtube>	  	  
     </trailer>
 
     <!--
